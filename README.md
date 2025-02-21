@@ -25,6 +25,11 @@ Provides fundamental knowledge of ACID transactions and transactional processing
 The course lays the groundwork for working with databases, making it easier to use them in real-world applications
 and understand concepts like converting a database into an Object-Relational Model (ORM).
 
+## Entity Framework Core
+Covers **Entity Framework Core**, focusing on ORM principles, EF Core capabilities, and the use of Language Integrated Query (LINQ) for data querying. 
+The curriculum includes advanced querying techniques, C# auto mapping, and processing JSON and XML data within .NET applications. 
+Additionally, there are hands-on workshops and an introduction to NoSQL databases.
+
 ### Core Topics Covered
 - **HTTP** Protocols: Learn how web communication works, including requests and responses.
 - **ASP.NET Core Introduction**: Gain insights into the ASP.NET Core framework and its features.
