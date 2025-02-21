@@ -9,14 +9,17 @@ The next step in the **SoftUni** program, building on the concepts learned in Pr
 It covers more advanced programming topics, including data structures like arrays, lists, and dictionaries, and introduces the fundamentals of OOP with objects and classes. 
 The course dives deeper into string manipulation and regular expressions, while also introducing version control with Git and essential web development technologies such as **HTML**, **CSS**, and **HTTP**.
 
+## C# Advanced
+Builds on foundational C# and .NET knowledge, delving into more complex concepts. 
+It covers advanced data structures such as stacks, queues, multidimensional arrays, sets, and dictionaries. 
+The course also includes managing streams, files, and directories, as well as exploring functional programming with **LINQ**. 
+Additionally, it covers defining and using classes, working with generics, and implementing iterators and comparators.
+
 ## HTML and CSS
 Introduces the basics of HTML and CSS, covering core topics such as the HTML structure and CSS styling. 
 It includes hands-on exercises on the CSS Box Model, typography, and layout techniques using Flexbox. 
 Advanced concepts like Responsive Web Design and working with forms are also explored through practical exercises. 
 The course culminates in a two-part workshop where students build a static website from scratch, applying the concepts learned throughout the course.
-
-## ASP.NET Core Fundamentals
-Provides a foundational understanding of ASP.NET Core, emphasizing the key principles and practices of modern web development. It is exploring the following core topics:
 
 ## MSSQL
 Focuses on the relational model, data modeling with ER diagrams (tables and relationships), 
@@ -29,6 +32,9 @@ and understand concepts like converting a database into an Object-Relational Mod
 Covers **Entity Framework Core**, focusing on ORM principles, EF Core capabilities, and the use of Language Integrated Query (LINQ) for data querying. 
 The curriculum includes advanced querying techniques, C# auto mapping, and processing JSON and XML data within .NET applications. 
 Additionally, there are hands-on workshops and an introduction to NoSQL databases.
+
+## ASP.NET Core Fundamentals
+Provides a foundational understanding of ASP.NET Core, emphasizing the key principles and practices of modern web development. It is exploring the following core topics:
 
 ### Core Topics Covered
 - **HTTP** Protocols: Learn how web communication works, including requests and responses.
