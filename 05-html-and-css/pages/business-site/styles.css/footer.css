@@ -1,0 +1,9 @@
+footer{
+    background-color: #171720;
+    border-top: 1px solid #515050;
+    color: #B3A6A8;
+}
+
+footer p {
+    padding: 0.5em;
+}

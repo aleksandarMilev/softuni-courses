@@ -1,0 +1,39 @@
+.section4 .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section4 .container img {
+    padding: 6em;
+    max-width: 64%;
+}
+
+.section4-text {
+    padding-top: 9em;
+    padding-left: 4em;
+    max-width: 39%;
+    
+}
+
+.section4 h2 {
+    font-size: 2em;
+    font-weight: 200;
+    color: #585858;
+    padding-bottom: 0.7em;
+}
+
+.section4 span {
+    color: #222;
+    font-weight: 700;
+}
+
+.section4-text p:nth-child(2) {
+    font-style: italic;
+    padding-bottom: 1.1em;
+}
+
+.section4 .line {
+    font-size: 2.5em;
+    border-left: 1px solid #111;
+    color: #efefef;
+}

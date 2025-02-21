@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 16px/1.5 Helvetica, sans-serif;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    background-color: #F6F8F9;
+    border-radius: 0.4em;
+    margin: 3em auto;
+    max-width: 1200px;
+}
+
+.text-content {
+    padding: 4em 3em;
+}
+
+.subtitle,
+h1 {
+    color: #29323F;
+    font-size: 1.7em;
+}
+
+.subtitle {
+    font-size: 0.6em;
+    font-weight: 500;
+}
+
+h1 {
+    font-weight: 500;
+    padding: 0.3em 0 0.6em;
+}
+
+.description {
+    color: #666F78;
+    padding-bottom: 1.5em;
+    max-width: 40ch;
+}
+
+.buttons a {
+    padding: 0.5em 1em;
+    text-decoration: none;
+    border-radius: 0.15em;
+}
+
+.sales {
+    color: white;
+    background-color: #7573F6;
+    margin-right: 0.5em;
+}
+
+.more {
+    color: #29323F;
+    border: 1px solid #0D0E10;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 25%;
+    padding-top: 3.5em;
+    margin-right: 5em;
+}

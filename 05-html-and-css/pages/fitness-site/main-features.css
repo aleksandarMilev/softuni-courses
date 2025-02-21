@@ -1,0 +1,38 @@
+.main-features h3 {
+    text-align: center;
+    padding: 0.8em 0;
+    font-size: 1.7em;
+}
+
+.main-features span {
+    height: 0.3ch;
+    width: 4ch;
+    background-color: #D01919;
+    display: block;
+    margin: 0 auto;
+} 
+
+.articles {
+    padding: 1em 0 3.5em;
+    display: flex;
+    gap: 5em;
+    justify-content: space-around;
+}
+
+.articles > * {
+    flex: 1 1 30%;
+    text-align: center; 
+    max-width: 35ch;
+}
+
+.articles h5 {
+    font-size: 1em;
+    color: #D01919;
+    padding-bottom: 1em;
+}
+
+img {
+    width: 4em;
+    height: 4em;
+    margin: 1em auto;
+}

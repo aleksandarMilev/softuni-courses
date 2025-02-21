@@ -1,0 +1,31 @@
+.top {
+    background-color: #D01919;
+    color: white;
+    padding: 0.3em 3em;
+}
+
+.top .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.top .container > * {
+    padding: 0.5em;
+}
+
+.socials li {
+    display: inline;
+}
+
+.socials a {
+    text-decoration: none;
+    color: white;
+    padding: 0.2em;
+}
+
+.socials span {
+    display: none;
+}
+

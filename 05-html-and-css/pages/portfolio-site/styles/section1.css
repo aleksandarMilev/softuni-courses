@@ -1,0 +1,73 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
+
+.section1 ul {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: flex-end;
+}
+
+.section1 li {
+    list-style: none;
+}
+
+.section1 .level1 li {
+    display: flex;
+    padding: 2em;
+    list-style: none;
+}
+
+.section1 .level1 a {
+    align-self: center;
+    padding-right: 0.5em;
+    text-decoration: none;
+    color: #2F3030;    
+}
+
+.section1 .level1 i {
+    font-size: 1.5em;
+    align-self: center;
+}
+
+.section1 .level2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section1-text {
+    padding-top: 3em;
+    padding-left: 6em;
+    max-width: 58ch;
+}
+
+.section1 p {
+    font-style: italic;
+    color: #232323;
+}
+
+
+.section1 h2 {
+    color: #585858;
+    padding-bottom: 0.6em;
+    font-weight: 200;
+    font-size: 2em;
+}
+
+.section1 span {
+    font-weight: 700;
+    color: #222;
+}
+
+.section1 img {
+    padding-right: 4em;
+    width: 50%;
+}
+
+.section1-text p:nth-child(3) {
+    padding-bottom: 1.5em;
+}
+
+.section1 .line {
+    font-size: 2.5em;
+    border-left: 1px solid #111;
+    color: #efefef;
+}

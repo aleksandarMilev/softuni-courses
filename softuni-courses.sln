@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09-asp-net-core-fundamentals", "09-asp-net-core-fundamentals", "{E7016E3D-1D51-BA1C-EDBF-2FAFD11A3D53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "regular-exam", "regular-exam", "{92411C22-79F4-AE1B-1848-ABA29B34F16A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeskMarket_Skeleton", "DeskMarket_Skeleton", "{3E10F204-CD97-E79A-E5F2-4AB3376C5571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskMarket", "09-asp-net-core-fundamentals\regular-exam\DeskMarket_Skeleton\DeskMarket\DeskMarket.csproj", "{6FCFB701-601C-18F0-E29D-625401644633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FCFB701-601C-18F0-E29D-625401644633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCFB701-601C-18F0-E29D-625401644633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCFB701-601C-18F0-E29D-625401644633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCFB701-601C-18F0-E29D-625401644633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92411C22-79F4-AE1B-1848-ABA29B34F16A} = {E7016E3D-1D51-BA1C-EDBF-2FAFD11A3D53}
+		{3E10F204-CD97-E79A-E5F2-4AB3376C5571} = {92411C22-79F4-AE1B-1848-ABA29B34F16A}
+		{6FCFB701-601C-18F0-E29D-625401644633} = {3E10F204-CD97-E79A-E5F2-4AB3376C5571}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F52C0AE-8584-4E40-B6BD-C8B2420CCA6F}
+	EndGlobalSection
+EndGlobal

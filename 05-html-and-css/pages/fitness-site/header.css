@@ -1,0 +1,53 @@
+.header {
+    padding: 1em 3.4em;
+    background-color: #000;;
+    color: white;
+}
+
+.header {
+    background-image: url('image/fitness-main.jpg');
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header-nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-nav ul {
+    display: flex;
+    gap: 4.5em;
+}
+
+.header-nav ul li {
+    list-style: none;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+.header-content {
+    text-align: center;
+    padding: 10em 0;
+}
+
+.header-content h1{
+    font-size: 2.5em;
+    letter-spacing: 0.3em;
+}
+
+.header-content p {
+    max-width: 53ch;
+    margin: 0 auto;
+    padding: 2em 0;
+}
+
+.header-content a {
+    background-color: #D01919;
+    padding: 0.3em 0.5em;
+    border-radius: 0.4em;
+}

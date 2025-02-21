@@ -1,0 +1,12 @@
+.section5 .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section5 .container > * {
+    max-width: 30%;
+}
+
+.section5 .container {
+    position: relative; 
+}

@@ -1,0 +1,30 @@
+.down-nav {
+    background-color: #171720;
+    color: #fff;
+    padding: 3em 10em 10em;
+}
+
+.down-nav a {
+    color: #B3A6A8;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.down-nav li {
+    list-style: none;
+}
+
+.down-nav nav {
+    display: flex;
+    gap: 3em;
+    justify-content: space-between;
+}
+
+.down-nav h4 {
+    font-size: 1.2em;
+    padding-bottom: 0.7em;
+}
+
+.down-nav li {
+    line-height: 2.5em;
+}

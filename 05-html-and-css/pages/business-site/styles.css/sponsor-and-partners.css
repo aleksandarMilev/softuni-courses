@@ -1,0 +1,33 @@
+.sponsors-and-partners h2 {
+    text-align: center;
+    color: #B0825C;
+    padding-top: 1.3em;
+    padding-bottom: 0.3em;
+    font-weight: 500;
+    font-size: 2.5em
+}
+
+.sponsors-and-partners p {
+    text-align: center;
+    color: #716567;
+    padding-bottom: 3em;
+    max-width: 80ch;
+    margin: 0 auto;
+
+}
+
+.media {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5em;
+}
+
+.sponsors-and-partners img {
+    width: 10em;
+    height: 10em;
+    padding: 1.5em;
+    border: 1px solid #DDDDDD;
+    background-color: #ddd;
+    border-radius: 10em;
+}

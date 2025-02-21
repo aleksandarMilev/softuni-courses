@@ -1,0 +1,59 @@
+.section2 .container {
+    display: flex;
+}
+
+.section2 h2 {
+    padding: 2em 0 0.5em;
+    color: #585858;
+    font-weight: 200;
+    font-size: 2em;
+}
+
+.section2 span:nth-child(2) {
+    font-weight: 700;
+    color: #222;
+}
+
+.section2 .line::before {
+    margin-right: 0.7em;
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #383838;
+    width: 1.8em;
+    height: 0.02em;
+}
+
+.section2 p {
+    max-width: 65ch;
+    font-style: italic;
+}
+
+.section2 p:nth-child(2) {
+    padding: 1em 0;
+}
+
+.section2 i {
+    display: inline;
+    width: 1.5em;
+    background-color: #909090;
+    color: #fff;
+    margin-right: 0.8em;
+    padding: 0.4em;
+    font-size: 0.9em;
+}
+
+.section2 li {
+    padding-top: 2em;
+    list-style: none;
+    display: inline-block;
+}
+
+.section2 a {
+    display: none;
+}
+
+.section2 img {
+    width: 45%;
+    padding: 5em;
+}
