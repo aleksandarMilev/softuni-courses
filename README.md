@@ -15,6 +15,12 @@ It covers advanced data structures such as stacks, queues, multidimensional arra
 The course also includes managing streams, files, and directories, as well as exploring functional programming with **LINQ**. 
 Additionally, it covers defining and using classes, working with generics, and implementing iterators and comparators.
 
+## C# OOP
+Delves into key object-oriented programming concepts in C#. 
+It begins with the fundamentals of inheritance and encapsulation, and then progresses to interfaces, abstraction, and polymorphism. 
+Additional topics include exception handling, debugging techniques, and the SOLID principles. 
+The course also explores reflection, attributes, unit testing, mocking, test-driven development, and design patterns.
+
 ## HTML and CSS
 Introduces the basics of HTML and CSS, covering core topics such as the HTML structure and CSS styling. 
 It includes hands-on exercises on the CSS Box Model, typography, and layout techniques using Flexbox. 
