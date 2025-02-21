@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartDevice", "SmartDevice.csproj", "{BEAE5FD9-D0B5-4075-9B19-8F42FDF05955}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartDevice.Tests", "..\SmartDevice.Tests\SmartDevice.Tests.csproj", "{88D851E3-B11C-48F4-9241-4DCCFD1A59BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEAE5FD9-D0B5-4075-9B19-8F42FDF05955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAE5FD9-D0B5-4075-9B19-8F42FDF05955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAE5FD9-D0B5-4075-9B19-8F42FDF05955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAE5FD9-D0B5-4075-9B19-8F42FDF05955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D851E3-B11C-48F4-9241-4DCCFD1A59BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D851E3-B11C-48F4-9241-4DCCFD1A59BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D851E3-B11C-48F4-9241-4DCCFD1A59BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D851E3-B11C-48F4-9241-4DCCFD1A59BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {178097A7-17BE-487A-9460-2B87DC462810}
+	EndGlobalSection
+EndGlobal
