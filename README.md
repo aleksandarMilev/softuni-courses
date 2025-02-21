@@ -12,6 +12,13 @@ The course dives deeper into string manipulation and regular expressions, while 
 ## ASP.NET Core Fundamentals
 Provides a foundational understanding of ASP.NET Core, emphasizing the key principles and practices of modern web development. It is exploring the following core topics:
 
+## MSSQL
+Focuses on the relational model, data modeling with ER diagrams (tables and relationships), 
+and working with SQL (data retrieval, selection, projection, joins, aggregation, grouping, updating, deleting, and inserting). 
+Provides fundamental knowledge of ACID transactions and transactional processing, along with practical tips for performance tuning. 
+The course lays the groundwork for working with databases, making it easier to use them in real-world applications
+and understand concepts like converting a database into an Object-Relational Model (ORM).
+
 ### Core Topics Covered
 - **HTTP** Protocols: Learn how web communication works, including requests and responses.
 - **ASP.NET Core Introduction**: Gain insights into the ASP.NET Core framework and its features.
