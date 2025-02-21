@@ -1,0 +1,48 @@
+<section class="event-search">
+  <h1 id="title">Search</h1>
+
+  <form class="search-form" action="/disaster/search" method="GET">
+    <input
+      type="text"
+      class="search-event"
+      name="name"
+      placeholder="Search by Name..."
+      value="{{name}}"
+    />
+    <select id="type" name="type">
+      <option value="">All</option>
+      <option value="Wildfire">Wildfire</option>
+      <option value="Flood">Flood</option>
+      <option value="Earthquake">Earthquake</option>
+      <option value="Hurricane">Hurricane</option>
+      <option value="Drought">Drought</option>
+      <option value="Tsunami">Tsunami</option>
+      <option value="Other">Other</option>
+    </select>
+    <button type="submit" class="btn-search">Search</button>
+  </form>
+
+  <div class="search-result">
+    {{#if disasters.length}}
+    <div class="search-list">
+      {{#each disasters}}
+      <div class="event">
+        <div class="img">
+          <img src="{{this.image}}" />
+        </div>
+        <div class="event-info">
+          <h1>{{this.name}}</h1>
+          <p><span>Location: </span>{{this.location}}</p>
+          <p><span>Type: </span>{{this.type}}</p>
+        </div>
+        <a href="/disaster/{{this._id}}/details" class="btn-details">Details</a>
+      </div>
+      {{/each}}
+    </div>
+    {{else}}
+    <div class="no-match">
+      <p>No match was found!</p>
+    </div>
+    {{/if}}
+  </div>
+</section>
