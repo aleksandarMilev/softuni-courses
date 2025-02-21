@@ -15,11 +15,23 @@ It covers advanced data structures such as stacks, queues, multidimensional arra
 The course also includes managing streams, files, and directories, as well as exploring functional programming with **LINQ**. 
 Additionally, it covers defining and using classes, working with generics, and implementing iterators and comparators.
 
+## C# OOP
+Delves into key object-oriented programming concepts in C#. 
+It begins with the fundamentals of inheritance and encapsulation, and then progresses to interfaces, abstraction, and polymorphism. 
+Additional topics include exception handling, debugging techniques, and the SOLID principles. 
+The course also explores reflection, attributes, unit testing, mocking, test-driven development, and design patterns.
+
 ## HTML and CSS
 Introduces the basics of HTML and CSS, covering core topics such as the HTML structure and CSS styling. 
 It includes hands-on exercises on the CSS Box Model, typography, and layout techniques using Flexbox. 
 Advanced concepts like Responsive Web Design and working with forms are also explored through practical exercises. 
 The course culminates in a two-part workshop where students build a static website from scratch, applying the concepts learned throughout the course.
+
+## JS FrontEnd
+Covers a range of topics from fundamental to advanced **JavaScript** programming. 
+It begins with the basics of **JavaScript** syntax and progresses through arrays, strings, functions, and statements. 
+The course then explores objects and classes, followed by an in-depth look at the Document Object Model (DOM), including DOM manipulation, events, and asynchronous programming with HTTP and AJAX. 
+Additionally, I have researched and learned about prototypes, inheritance, and class usage independently.
 
 ## MSSQL
 Focuses on the relational model, data modeling with ER diagrams (tables and relationships), 
