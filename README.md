@@ -27,6 +27,12 @@ It includes hands-on exercises on the CSS Box Model, typography, and layout tech
 Advanced concepts like Responsive Web Design and working with forms are also explored through practical exercises. 
 The course culminates in a two-part workshop where students build a static website from scratch, applying the concepts learned throughout the course.
 
+## JS FrontEnd
+Covers a range of topics from fundamental to advanced **JavaScript** programming. 
+It begins with the basics of **JavaScript** syntax and progresses through arrays, strings, functions, and statements. 
+The course then explores objects and classes, followed by an in-depth look at the Document Object Model (DOM), including DOM manipulation, events, and asynchronous programming with HTTP and AJAX. 
+Additionally, I have researched and learned about prototypes, inheritance, and class usage independently.
+
 ## MSSQL
 Focuses on the relational model, data modeling with ER diagrams (tables and relationships), 
 and working with SQL (data retrieval, selection, projection, joins, aggregation, grouping, updating, deleting, and inserting). 
