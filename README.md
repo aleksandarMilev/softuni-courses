@@ -9,6 +9,12 @@ The next step in the **SoftUni** program, building on the concepts learned in Pr
 It covers more advanced programming topics, including data structures like arrays, lists, and dictionaries, and introduces the fundamentals of OOP with objects and classes. 
 The course dives deeper into string manipulation and regular expressions, while also introducing version control with Git and essential web development technologies such as **HTML**, **CSS**, and **HTTP**.
 
+## HTML and CSS
+Introduces the basics of HTML and CSS, covering core topics such as the HTML structure and CSS styling. 
+It includes hands-on exercises on the CSS Box Model, typography, and layout techniques using Flexbox. 
+Advanced concepts like Responsive Web Design and working with forms are also explored through practical exercises. 
+The course culminates in a two-part workshop where students build a static website from scratch, applying the concepts learned throughout the course.
+
 ## ASP.NET Core Fundamentals
 Provides a foundational understanding of ASP.NET Core, emphasizing the key principles and practices of modern web development. It is exploring the following core topics:
 
